@@ -6,6 +6,8 @@ Welcome to Vanus documentation!👋
 
 This repository contains all assets required to build the [Vanus documentation website](https://docs.vanus.ai).
 
+test
+
 ## Website
 
 The Vanus documentation website is built using [Docusaurus 2](https://docusaurus.io/).
